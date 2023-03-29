@@ -1,0 +1,5 @@
+   0 nano myfirstbashscript.sh
+   1 chmod u+x myfirstbashscript.sh 
+   2 ./myfirstbashscript.sh 
+   3 export_file sleeper.sh
+   4 history > history.txt | export_file history.txt
